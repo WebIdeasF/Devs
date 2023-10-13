@@ -1,0 +1,58 @@
+.container-perfilPaciente {
+    background-color: #5db4b5;
+    height: 100vh;
+}
+
+.btn {
+    font-size: 17px;
+    padding: 0.2em 0.3em;
+    margin: 0 0.2em;
+    border-radius: 5px;
+    border: none;
+    color: #608ab7;
+    border-color: #608ab7;
+    background-color: white;
+}
+
+.container-diagnostico {
+    border-radius: 5px;
+    border: 2px solid #5db4b5;
+    margin: 0.2em 0;
+}
+
+.header-diagnostico {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.2em 0;
+    background-color: #608ab7;
+}
+
+.fecha-diagnostico {
+    color: white;
+    padding-left: 0.5em;
+}
+
+.btn-editar, .btn-cerrar {
+    border-radius: 5px;
+    margin: 0 0.2em;
+    background-color: #608ab7;
+    border: 1px solid white;
+    color: white;
+    padding: 0em 0.3em;
+}
+
+.btn-cerrar {
+
+}
+
+.texto-diagnostico {
+    color: #5db4b5;
+    padding-top: 0.2em;
+    padding-left: 0.5em;
+}
+
+.descripcion-diagnostico {
+    font-size: 0.9em;
+    padding-left: 0.6em;
+}

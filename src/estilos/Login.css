@@ -1,0 +1,94 @@
+.container-login{
+    background-color: #5db4b5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.header-login{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 100%;
+    background-color: #48D1CC;
+    padding-left: 1.4em;
+}
+
+.nombre-app{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.7em;
+    padding: 0.5em 0em;
+    text-align: center;
+    padding-left: 0.3em;
+}
+
+.titulo-app{
+    text-align: center;
+    padding: 1.5em 4em;
+    font-size: 1.2em;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-items:  center;
+    padding: 1.5em 1.5em 1em;
+    background-color: #94b39e;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.container-input{
+    margin-bottom: 0.6em;
+}
+
+
+.btn-ingreso{
+    font-size: 16px;
+    padding: 0.4em;
+    width: 200px;
+    background-color: #608ab7;
+    border-radius: 10px;
+    border: none;
+    margin: 0.7em 0 0.5em;
+    color: white;
+}
+
+.texto-datos{
+    font-size: 13px;
+    color: black;
+}
+
+.label-login{
+    display: inline-block;
+    width: 100px;
+}
+
+.input-login {
+    font-size: 15px;
+    padding: 0.15em ;
+    padding-left: 0.3em;
+    width: 72px;
+    border: none;
+    border-radius: 3px;
+    border-bottom: 1px solid black;
+}
+
+.btn-info{
+    font-size: 16px;
+    border-radius: 10px;
+    padding: 0.4em 1.2em;
+    border-color: white;
+    background-color: #bbd7e4;
+    margin: 1em 0;
+}
+
+.btn-registro{
+    width: 90%;
+    font-size: 16px;
+    border-radius: 10px;
+    border-color: white;
+    background-color: #bbd7e4;
+    padding: 0.7em;
+}

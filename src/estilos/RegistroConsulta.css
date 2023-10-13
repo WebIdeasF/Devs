@@ -1,0 +1,37 @@
+.container-registroConsulta {
+    background-color: #5db4b5;
+    height: 100vh;
+}
+
+.fecha-consulta {
+    text-align: center;
+    padding-bottom: 0.6em;
+}
+
+.input-consulta {
+    padding: 0.3em 0.4em;
+    width: 91%;
+    margin: 0.3em 0.9em;
+    border-radius: 5px;
+    border: none;
+}
+
+.btn-consulta {
+    padding: 0.1em 0.3em;
+    margin-left: -2.2em;
+    background-color: #608ab7;
+    border: none;
+}
+
+.container-consulta {
+    height: 450px;
+    margin: 0.5em 0.8em;
+    border-radius: 5px;
+    background: white;
+}
+
+.texto-consulta{
+    padding: 11em 0;
+    text-align: center;
+    color: gray;
+}

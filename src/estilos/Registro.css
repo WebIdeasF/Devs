@@ -1,0 +1,48 @@
+.container-registro{
+    background-color: #5db4b5;
+    height: 100vh;
+}
+
+.nombre-app-registro{
+    padding: 0.3em 0;
+    font-size: 1.5em ;
+    text-align: center;
+    background-color: #48D1CC;
+}
+
+.formulario-registro{
+    height: 80vh;
+    padding: 0 1em;
+    margin: 1em;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.text-registro{
+    text-align: center;
+    padding: 0.8em 0.6em;
+}
+
+.container-inputs-registro{
+    display: flex;
+    flex-direction: column;
+    margin: 0.5em 0;
+}
+
+.label-registro{
+    padding-bottom: 0.1em;
+}
+
+.input-registro{
+    padding: 0.3em 0;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-solicitud{
+    width: 100%;
+    padding: 0.5em 0;
+    border-radius: 10px;
+    border: none;
+    margin-top: 7em;
+}

@@ -1,0 +1,102 @@
+.container-perfil {
+    background-color: #5db4b5;
+    height: 100vh;
+}
+
+.perfil {
+    padding: 0.3em 0;
+    border-bottom: 2px solid white;
+    background-color: #608ab7;
+}
+
+.nombre-perfil {
+    padding-left: 1em;
+    color: white;
+}
+
+.nombre-usuario {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.cantidad-pacientes {
+    padding-top: 0.1em;
+}
+
+.texto-seccion {
+    padding: 0.4em 0;
+    color: white;
+    text-align: center;
+    border-bottom: 1px solid white;
+    background-color: #608ab7;
+}
+
+.container-busqueda-paciente {
+    margin: 0.2em 0.7em;
+    padding: 0.5em 0.1em;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.busqueda-paciente {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 0.5em;
+}
+
+.input-busqueda {
+    width: 55%;
+    padding: 0.3em 0;
+    border: none;
+    border-bottom: 2px solid gray;
+}
+
+.btn-busqueda,
+.btn-pac {
+    padding: 0.3em;
+    border-radius: 5px;
+    color: #608ab7;
+    border-color: #608ab7;
+    background-color: white;
+}
+
+.texto-busqueda {
+    padding: 0 0.2em;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+.container-pac{
+    height: 500px;
+    margin: 0.5em 0.8em;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.texto-pac {
+    padding: 11em 0.8em;
+    text-align: center;
+    color: gray;
+}
+
+.container-paciente{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.4em;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.nombre-paciente{
+    font-weight: bold;
+}
+
+.btn-paciente{
+    padding: 0.1em;
+    background-color: #608ab7;
+    border: none;
+    border-radius: 7px;
+}
