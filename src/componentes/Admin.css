@@ -1,0 +1,40 @@
+.div-admin {
+    background-color: #def0ff;
+    padding: 1em 5px;
+    margin: 2em 1em;
+    border-radius: 15px;
+    border: 2px solid white;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.content-table {
+    border-collapse: collapse;
+    margin: 15px 0;
+    font-family: sans-serif;
+    min-width: 300px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.content-table thead tr {
+    color: black;
+    text-align: center;
+}
+
+.content-table th,
+.content-table td {
+    font-size: 16px;
+    padding: 5px 0px;
+    text-align: center;
+}
+
+.content-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.content-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
